@@ -4,6 +4,13 @@ News
 Reports
 ~~~~~~~~~~
 
+19.课题组付红岩教授当选2026年美国光学学会会士（Optica Fellow） Prof. Hongyan Fu Elected 2026 Optica Fellow, 2025/11/25
+    https://www.optica.org/about/newsroom/news_releases/2025/optica_announces_2026_fellows_class/
+
+.. raw:: html
+
+    <IMG src="_static/opticafellow.png" width =700>
+
 18.课题组校友、东京大学JSPS研究员戴茂林博士受邀作学术报告“高重频超快光纤激光器:挑战与研究进展” Group Alumnus Dr. Maolin Dai, JSPS Research Fellow from the University of Tokyo, is invited to give an academic talk on "Compact high-repetition-rate ultrafast fiber lasers: Challenges and progress", 2025/10/24    
 
 .. raw:: html
