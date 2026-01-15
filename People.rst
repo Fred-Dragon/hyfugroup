@@ -43,7 +43,7 @@ PROFESSIONAL EXPERIENCES
 
 ACADEMIC APPOINTMENTS
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-| Senior & Life Member of Optica\
+| Optica Fellow\
 | Senior Member of Institute of Electrical and Electronics Engineers (IEEE)\
 | Life Member of Society of Photo-Optical Instrumentation Engineers (SPIE)\
 | Vice president of IEEE Photonics Society (IPS) Guangdong Chapter\
