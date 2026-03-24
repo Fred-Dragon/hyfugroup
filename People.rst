@@ -83,12 +83,6 @@ Current Students
         <th width="225px">Enrollment Year</th>
     </tr>
     <tr>
-        <td><IMG src="_static/yaqi.jpg"></td>
-        <td>Yaqi Han<br>Ph.D. Student</td>
-        <td>LiDAR, beam steering</td>
-        <td>  2020 </th>
-    </tr>
-    <tr>
         <td><IMG src="_static/lihang.jpg"></td>
         <td>Lihang Liu<br>Ph.D. Student</td>
         <td>Optical wireless communications</td>
@@ -167,6 +161,12 @@ Current Students
         <td> 2024 </th>
     </tr>
      <tr>
+        <td><IMG src="_static/mingjing.JPG"></td>
+        <td>Mingjing Zeng<br>Ph.D. Student</td>
+        <td>Optical wireless communications</td>
+        <td> 2025 </th>
+    </tr>
+     <tr>
         <td><IMG src="_static/weichen.jpg"></td>
         <td>Weichen Yuan<br>Master Student</td>
         <td>Microcavity, Photonics devices</td>
@@ -213,6 +213,30 @@ Current Students
         <td>Bo Peng<br>Master Student</td>
         <td>Silicon Photonics</td>
         <td>  2024 </th>
+    </tr> 
+     <tr>
+        <td><IMG src="_static/wangyu.JPG"></td>
+        <td>Yu Wang<br>Master Student</td>
+        <td>Optical wireless communications</td>
+        <td>  2025 </th>
+    </tr> 
+     <tr>
+        <td><IMG src="_static/jiawei.JPG"></td>
+        <td>Jiawei Chen<br>Master Student</td>
+        <td>LiDAR</td>
+        <td>  2025 </th>
+    </tr> 
+     <tr>
+        <td><IMG src="_static/yanxi.JPG"></td>
+        <td>Yanxi Long<br>Master Student</td>
+        <td>Silicon Photonics</td>
+        <td>  2025 </th>
+    </tr> 
+     <tr>
+        <td><IMG src="_static/yinxi.JPG"></td>
+        <td>Yinxi Zhao<br>Master Student</td>
+        <td>LiDAR</td>
+        <td>  2025 </th>
     </tr> 
     </table>
     <br>
@@ -314,6 +338,12 @@ Graduated Students
         <td>Simei Mao<br>Ph.D. Student<br>2019-2024</td>
         <td>Silicon photonics: multiplexing, inverse design</td>
         <td>  iMEC </th>
+    </tr>
+    <tr>
+        <td><IMG src="_static/yaqi.jpg"></td>
+        <td>Yaqi Han<br>Ph.D. Student<br>2020-2026</td>
+        <td>LiDAR, beam steering</td>
+        <td>   </th>
     </tr>
     <tr>
         <td><IMG src="_static/zhenquan.jpg"></td>
