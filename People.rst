@@ -161,7 +161,7 @@ Current Students
         <td> 2024 </th>
     </tr>
      <tr>
-        <td><IMG src="_static/mingjing.JPG"></td>
+        <td><IMG src="_static/mingjing.jpg"></td>
         <td>Mingjing Zeng<br>Ph.D. Student</td>
         <td>Optical wireless communications</td>
         <td> 2025 </th>
@@ -215,25 +215,25 @@ Current Students
         <td>  2024 </th>
     </tr> 
      <tr>
-        <td><IMG src="_static/wangyu.JPG"></td>
+        <td><IMG src="_static/wangyu.jpg"></td>
         <td>Yu Wang<br>Master Student</td>
         <td>Optical wireless communications</td>
         <td>  2025 </th>
     </tr> 
      <tr>
-        <td><IMG src="_static/jiawei.JPG"></td>
+        <td><IMG src="_static/jiawei.jpg"></td>
         <td>Jiawei Chen<br>Master Student</td>
         <td>LiDAR</td>
         <td>  2025 </th>
     </tr> 
      <tr>
-        <td><IMG src="_static/yanxi.JPG"></td>
+        <td><IMG src="_static/yanxi.jpg"></td>
         <td>Yanxi Long<br>Master Student</td>
         <td>Silicon Photonics</td>
         <td>  2025 </th>
     </tr> 
      <tr>
-        <td><IMG src="_static/yinxi.JPG"></td>
+        <td><IMG src="_static/yinxi.jpg"></td>
         <td>Yinxi Zhao<br>Master Student</td>
         <td>LiDAR</td>
         <td>  2025 </th>
