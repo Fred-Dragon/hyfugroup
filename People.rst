@@ -11,9 +11,8 @@ Professor
         <td><IMG src="_static/hyfu.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
         <td><b>Hongyan Fu</b>&nbsp;&nbsp; <a href="https://scholar.google.com/citations?hl=en&user=ruUJphwAAAAJ&view_op=list_works&sortby=pubdate"
             Google Scholar>(Google Scholar Page)</a><br>    
-            BEng, MSc, PhD, OpticaF, SrMIEEE, MSPIE<br>
-            Nano-Devices Laboratory<br>
-            Office: Room 1510, Information Building, University Town<br>
+            BEng, MSc, PhD, Optica Fellow, SrMIEEE, MSPIE<br>
+            Office: Room 1713, Information Building, University Town<br>
             E-mail: <a href="mailto:hyfu@sz.tsinghua.edu.cn">hyfu@sz.tsinghua.edu.cn</a></td>
 
     </tr>
