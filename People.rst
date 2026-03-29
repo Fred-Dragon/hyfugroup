@@ -142,12 +142,6 @@ Current Students
         <td> 2023 </th>
     </tr>
      <tr>
-        <td><IMG src="_static/xubin.JPG"></td>
-        <td>Bin Xu<br>Ph.D. Student</td>
-        <td>Silicon photonics</td>
-        <td> 2024 </th>
-    </tr>
-     <tr>
         <td><IMG src="_static/shichen.JPG"></td>
         <td>Shichen Zheng<br>Ph.D. Student</td>
         <td>LiDAR</td>
@@ -187,6 +181,27 @@ Current Students
         <td><IMG src="_static/annan.jpg"></td>
         <td>Annan Xia<br>Master Student</td>
         <td>LiDAR</td>
+        <td>  2023 </th>
+    </tr>
+     <tr>
+        <td><IMG src="_static/musen.jpg"></td>
+        <td>Musen Lin<br>Master Student</td>
+        <td>Integrated Circuits</td>
+        <td>  2023 </th>
+    </tr>
+        <td><IMG src="_static/wutong.jpg"></td>
+        <td>Tong Wu<br>Master Student</td>
+        <td>Integrated Circuits</td>
+        <td>  2023 </th>
+    </tr>
+        <td><IMG src="_static/zixuan.jpg"></td>
+        <td>Zixuan Ma<br>Master Student</td>
+        <td>Integrated Circuits</td>
+        <td>  2023 </th>
+    </tr>
+        <td><IMG src="_static/jiahao.jpg"></td>
+        <td>Jiahao Wu<br>Master Student</td>
+        <td>Integrated Circuits</td>
         <td>  2023 </th>
     </tr>
      <tr>
