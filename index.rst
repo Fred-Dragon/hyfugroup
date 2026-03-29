@@ -29,8 +29,8 @@ Our vision: Enabling people's future life with advanced optical technologies.
     
     
     
-Laboratory Group Photo, 2024/10
+Laboratory Group Photo, 2025/10
 
 .. raw:: html
     
-    <IMG src="_static/师门合影.jpg" width=800>
+    <IMG src="_static/师门2025.JPG" width=800>
