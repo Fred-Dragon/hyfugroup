@@ -154,6 +154,12 @@ Current Students
         <td> 2024 </th>
     </tr>
      <tr>
+        <td><IMG src="_static/huanghui.JPG"></td>
+        <td>Hui Huang<br>Eng.D. Student</td>
+        <td></td>
+        <td> 2024 </th>
+    </tr>
+     <tr>
         <td><IMG src="_static/mingjing.jpg"></td>
         <td>Mingjing Zeng<br>Ph.D. Student</td>
         <td>Optical wireless communications</td>
