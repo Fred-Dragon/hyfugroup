@@ -45,7 +45,7 @@ ACADEMIC APPOINTMENTS
 | Fellow of Optica\
 | Senior Member of Institute of Electrical and Electronics Engineers (IEEE)\
 | Life Member of Society of Photo-Optical Instrumentation Engineers (SPIE)\
-| Vice president of IEEE Photonics Society (IPS) Guangdong Chapter\
+| President of IEEE Photonics Society (IPS) Guangdong Chapter in 2024 & 2025\
 | Council Member of Shenzhen Society of Micro-Nano Technology\
 | Founding Advisor of Optica, IEEE, and SPIE Student Chapters at Tsinghua SIGS\
 
@@ -154,9 +154,9 @@ Current Students
         <td> 2024 </th>
     </tr>
      <tr>
-        <td><IMG src="_static/huanghui.JPG"></td>
+        <td><IMG src="_static/huanghui.jpg"></td>
         <td>Hui Huang<br>Eng.D. Student</td>
-        <td></td>
+        <td>Active Electronically Scanned Array</td>
         <td> 2024 </th>
     </tr>
      <tr>
@@ -492,6 +492,24 @@ Visiting Scholars
         <td><IMG src="_static/wangmin.jpg" width="50px"></td>
         <td>Min Wang (PhD, Harbin Institute of Technology)<br>Postdoc<br>2024-</td>
         <td>​​Cation vacancy engineering​</td>
+        <td>-</th>
+    </tr>
+ <tr>
+        <td><IMG src="_static/xuanlun.jpg" width="50px"></td>
+        <td>Xuanlun Huang (PhD, Fudan University)<br>Postdoc<br>2025-</td>
+        <td>​​3D cameras and metasurface devices</td>
+        <td>-</th>
+    </tr>
+ <tr>
+        <td><IMG src="_static/zhengran.jpg" width="50px"></td>
+        <td>Zhengran Wang (PhD, Shandong University)<br>Postdoc<br>2025-</td>
+        <td>​​All-solid-state batteries​</td>
+        <td>-</th>
+    </tr>
+ <tr>
+        <td><IMG src="_static/xiaolong.jpg" width="50px"></td>
+        <td>Xiaolong Xue (PhD, Tsinghua University)<br>Postdoc<br>2025-</td>
+        <td>​​LLM​</td>
         <td>-</th>
     </tr>
     </table>
