@@ -166,18 +166,6 @@ Current Students
         <td> 2025 </th>
     </tr>
      <tr>
-        <td><IMG src="_static/weichen.jpg"></td>
-        <td>Weichen Yuan<br>Master Student</td>
-        <td>Microcavity, Photonics devices</td>
-        <td>  2022 </th>
-    </tr>
-     <tr>
-        <td><IMG src="_static/zehua.jpg"></td>
-        <td>Zehua Xu<br>Master Student</td>
-        <td>Optical wireless communications</td>
-        <td>  2022 </th>
-    </tr>
-     <tr>
         <td><IMG src="_static/haoyu.jpg"></td>
         <td>Haoyu Huang<br>Master Student</td>
         <td>Optical wireless communications</td>
@@ -424,6 +412,18 @@ Graduated Students
         <td>Bohua Deng<br>Master Student<br>2021-2024</td>
         <td>Optical wireless communications</td>
         <td>  Ph.D. Candidate,<br>McGill University </th>
+    </tr>
+     <tr>
+        <td><IMG src="_static/weichen.jpg"></td>
+        <td>Weichen Yuan<br>Master Student<br>2022-2025</td>
+        <td>Microcavity, Photonics devices</td>
+        <td>-</th>
+    </tr>
+     <tr>
+        <td><IMG src="_static/zehua.jpg"></td>
+        <td>Zehua Xu<br>Master Student<br>2022-2025</td>
+        <td>Optical wireless communications</td>
+        <td>-</th>
     </tr>
     </table>
     <br>
