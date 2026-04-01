@@ -23,33 +23,34 @@ Our group focus on design of key passive integrated components including fiber-t
 (polarization, mode and wavelength division multiplexing). Apart from traditional design method based on intuition and 
 physics, we also explore computer-automated design using advanced algorithms and deep neural networks.
 
-Advanced Sensing Technologies
+LiDAR (Light Detection and Ranging)
 --------------------------------
 .. raw:: html
 
-    <IMG src="_static/direction3-1.png" width=500>
+    <IMG src="_static/LiDAR1.png" width=500>
+    <IMG src="_static/LiDAR2.png" width=500>
 
-**Ultrafast 3D imaging LiDAR system based on spectral scanning method:**
-Light detection and ranging (LiDAR), as a 3D sensor, has been applied in various application scenarios, such as autonomous vehicles, augmented reality (AR)/virtual reality (VR), and robots. Traditional methods based on mechanical scanning are inherently slow, bulky and prone to failure and are not well suited for the emerging applications. To adapt ultrafast imaging techniques to an ultrafast 3D imaging platform, spectrum scanning method has been proposed to be employed in LiDAR system. LiDAR group focuses on developing ultra-fast spectral scanning technology and further improving 3D imaging speed of LiDAR system.
-
-.. raw:: html
-
-    <IMG src="_static/direction3-3.png" width=500>
-
-**Microcavity Sensing:**
-Whispering gallery mode (WGM) resonators, with superior performance compared with other resonators, 
-have emerged in recent years as versatile and ultra-sensitive technology for sensing applications, 
-which is the basis for the development of physical, chemical and biological sensors. 
-In our research group, we use micro-cavity (e.g. Microbubble) to realize different sensing applications, 
-such as ultra-low detection limit sensors.
+**4D FMCW LiDAR and AI-Driven Laser Frequency Sweep Nonlinearity Correction: **
+Frequency-modulated continuous-wave (FMCW) LiDAR offers significant advantages over traditional time-of-flight systems by simultaneously measuring distance and velocity to generate 4D point clouds with enhanced sensitivity. Our research focuses on developing scalable, data-efficient, and real-time 4D imaging systems. By integrating tunable cost-effective MEMS-VCSELs with novel dual Mach-Zehnder interferometer (MZI) architectures, we successfully overcome the detector bandwidth bottlenecks associated with ultra-high beat frequencies. Furthermore, we deploy lightweight, model-free fully convolutional neural networks (1-D FCN) to effectively correct laser frequency sweep nonlinearity, significantly boosting ranging precision and enabling high-frame-rate dynamic sensing for robotics and autonomous driving.
 
 .. raw:: html
 
-    <IMG src="_static/direction3-2.png" width=500>
+    <IMG src="_static/LiDAR3.png" width=500>
+    <IMG src="_static/LiDAR4.png" width=500>
 
-| **Ultrafast optics:**
-| **(1) Ultrafast mode-locked fiber lasers** with environmental stability have become powerful tools for numerous applications outside laboratories. We have constructed two novel and simple fiber laser schemes based on nonlinear polarization evolution for ultrashort pulse generation. High stability and high repetition rate are the two most important features of our proposed fiber oscillators. 
-| **(2)** The build-up process of the ultrashort pulses contains complex dynamics. We have constructed a fiber laser system and employed **time-stretch dispersive Fourier transformation (TS-DFT) technique** to unveil the formation of soliton, dissipative solitons working at different dispersion regions.
-|
+**Ultrafast Quantitative Phase Imaging (QPI) LiDAR:**
+Pushing the boundaries of scanning speed and breaking the spatial resolution limits, we combine QPI with inertia-free spectral scanning and time-stretching technologies. Driven by custom-built dissipative soliton mode-locked fiber lasers and time-stretcher, our QPI LiDAR system achieves a continuous space-wavelength-time mapping. By extracting precise quantitative phase change and frequency distribution, we achieve ultrafast line-scan rate (e.g., >30 MHz), micrometer-level lateral resolution and nanometer-level axial resolution. This enables high-throughput, high-definition 3D inspection of complex industrial and biological surfaces.
+
+.. raw:: html
+
+    <IMG src="_static/LiDAR5.png" width=500>
+
+**Underwater Computational Ghost Imaging (UCGI) LiDAR:**
+High-resolution imaging and ranging in underwater environments are notoriously challenging due to severe light scattering and attenuation. To address this, we develop advanced computational ghost imaging LiDAR systems tailored for highly turbid water. By innovating spatial modulation strategies—such as our wavelet transform-based Hadamard (WTH) ordering—we prioritize critical scene structures to achieve robust multi-target detection at super-low sampling ratios (e.g., 10%). This scene-statistic-aware approach ensures high-fidelity image reconstruction and precise distance localization, offering a practical solution for high-speed marine exploration and rescue operations.
  
- 
+ .. raw:: html
+
+    <IMG src="_static/LiDAR6.png" width=500>
+
+**Hyperspectral Sensing and Intelligent Material Classification:**
+Rapid and accurate material identification is critical for practical applications such as waste recycling and industrial quality control. We develop near-infrared multi-material classification systems utilizing ultra-broadband light sources generated via supercontinuum in highly nonlinear dispersion-shifted fibers (HNL-DSF). By coupling these rich hyperspectral transmittance features with advanced deep learning frameworks (1D-CNNs), our system can efficiently deconvolute overlapping spectral signals, achieving highly accurate and robust classification even for complex, multi-layered plastic objects.
