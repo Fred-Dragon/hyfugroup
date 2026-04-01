@@ -30,7 +30,7 @@ LiDAR (Light Detection and Ranging)
     <IMG src="_static/LiDAR1.png" width=500>
     <IMG src="_static/LiDAR2.png" width=500>
 
-**4D FMCW LiDAR and AI-Driven Laser Frequency Sweep Nonlinearity Correction: **
+**4D FMCW LiDAR and AI-Driven Laser Frequency Sweep Nonlinearity Correction:**
 Frequency-modulated continuous-wave (FMCW) LiDAR offers significant advantages over traditional time-of-flight systems by simultaneously measuring distance and velocity to generate 4D point clouds with enhanced sensitivity. Our research focuses on developing scalable, data-efficient, and real-time 4D imaging systems. By integrating tunable cost-effective MEMS-VCSELs with novel dual Mach-Zehnder interferometer (MZI) architectures, we successfully overcome the detector bandwidth bottlenecks associated with ultra-high beat frequencies. Furthermore, we deploy lightweight, model-free fully convolutional neural networks (1-D FCN) to effectively correct laser frequency sweep nonlinearity, significantly boosting ranging precision and enabling high-frame-rate dynamic sensing for robotics and autonomous driving.
 
 .. raw:: html
