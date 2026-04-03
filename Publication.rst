@@ -45,7 +45,7 @@ Optical Wireless Communication
 #. Lihang Liu, Zhiyue Yin, and H. Y. Fu*, “Wide field-of-view single-sourced full-duplex underwater wireless optical communication system using a digital micromirror device projector and camera,” *Optics Letters*, Vol. 50, pp. 6497–6500, 2025. \  `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=Wide%20field-of-view%20single-sourced%20full-duplex%20underwater%20wireless%20optical%20communication%20system%20using%20a%20digital%20micromirror%20device%20projector%20and%20camera&publication_year=2025&author=Lihang%20Liu&author=Zhiyue%20Yin&author=H.%20Y.%20Fu>`_
 
 Book Chapters
-~~~~~~~~~~~~~~
+-------------------
 
 [B1]	Chun-Liu Zhao, Xinyong Dong, H. Y. Fu, and H. Y. Tam, “Photonic crystal fiber loop mirrors and their applications,” in Recent Progress in Optical Fiber Research, ISBN: 978-953-307-823-6, InTech, (2012).
 
@@ -55,7 +55,7 @@ Book Chapters
 
 
 Review Papers
-~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------
 [R1] Xuanyi Liu, Feng Ye, Yang Luo, Hongyan Fu, and Qian Li, "Ultrafast Polarization-Maintaining Fiber Lasers: Design, Fabrication, Performance, and Applications," Laser & Photonics Reviews, Vol. 19, 2025.
 
 [R2] Z. Li, Y. Han, L. Wu, Z. Zang, M. Dai, S. Set, S. Yamashita, Q. Li, and H. Fu, "Towards an Ultrafast 3D Imaging Scanning LiDAR System: A Review," Photonics Research, Vol. 12, pp. 1709-1729, 2024.
@@ -81,7 +81,7 @@ Review Papers
 
 
 Selected Journal Papers
-~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------
 
 [J1] Yi Hao, Qingyang Zhu, Yaqi Han, Zihan Zang, Ziming Ye, Connie Chang-Hasnain and H. Y. Fu*, “Hybrid FMCW LiDAR System with Nonlinearity-Corrected MEMS-VCSEL for Extended 3D Imaging Range”, IEEE Journal of Lightwave Technology, Vol. 43, No. 9, pp. 4042–4052, 2025.
 
@@ -265,7 +265,7 @@ Selected Journal Papers
 
 
 Selected Recent Conference Papers
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------
 
 [C1]	Zhi Li, Bonan Liu, Zihan Zang, Yaqi Han, Lican Wu, Changrui Liao and H. Y. Fu*, “Compact Solid-state Coherent LiDAR based on In-fiber Beam Scanner,” in Proc. of the Asia Communications and Photonics Conference (ACP’2021), T4D.2, Shanghai, China, Oct. 2021. (Post-deadline Paper)
 
@@ -329,7 +329,7 @@ Selected Recent Conference Papers
 
 
 Selected Patents
-~~~~~~~~~~~~~~~~
+-------------------
 
 [P1]	Coherent Waveform Conversion in Optical Networks, 授权美国专利：US Patent 9,531,472
 
@@ -493,6 +493,6 @@ Selected Patents
  
 
 Magazine
-~~~~~~~~
+-------------------
 
 [M1]	付红岩，魏子贤，“micro LED 与LD 点亮可见光通信”，IEEE Spectrum科技纵览，2018年第5期
