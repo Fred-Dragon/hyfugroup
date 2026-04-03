@@ -4,6 +4,9 @@ News
 Reports
 ~~~~~~~~~~
 
+20.课题组在 Nature 发表片上相干4D激光雷达焦平面阵列研究专家评述 Hongyan Fu’s team publishes an expert opinion in Nature on chip-integrated coherent 4D LiDAR focal plane arrays, 2026/03/11
+    https://www.nature.com/articles/d41586-026-00727-1
+
 19.课题组付红岩教授当选2026年美国光学学会会士（Optica Fellow） Prof. Hongyan Fu Elected 2026 Optica Fellow, 2025/11/25
     https://www.optica.org/about/newsroom/news_releases/2025/optica_announces_2026_fellows_class/
 
