@@ -3,6 +3,47 @@ Publications
 
 Visit our latest publications on \ `Google Scholar <https://scholar.google.com/citations?hl=en&user=ruUJphwAAAAJ&view_op=list_works&sortby=pubdate>`_ 
 
+Latest Publications
+-------------------
+
+LiDAR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+#. Longbiao Liu, Ziming Ye, Feng Ye, Lihang Liu, Zhaotan Lin, Qian Li, Jie Xu*, and H. Y. Fu*, “A CNN-based multi-material classification system based on supercontinuum generation in HNL-DSF,” *Optics & Laser Technology*, Vol. 199, p. 114970, 2026. \ `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=A%20CNN-based%20multi-material%20classification%20system%20based%20on%20supercontinuum%20generation%20in%20HNL-DSF&publication_year=2026&author=Longbiao%20Liu&author=Ziming%20Ye&author=Feng%20Ye&author=Lihang%20Liu&author=Zhaotan%20Lin&author=Qian%20Li&author=Jie%20Xu&author=H.%20Y.%20Fu>`_
+
+#. Ziming Ye, Lihang Liu, Zhaotan Lin, Longbiao Liu, Zonghao Liu, and H. Y. Fu*, “Single-Source optical integrated sensing and communication (O-ISAC) with sequential target recognition,” *Optics & Laser Technology*, Vol. 198, p. 114961, 2026. \ `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=Single-Source%20optical%20integrated%20sensing%20and%20communication%20%28O-ISAC%29%20with%20sequential%20target%20recognition&publication_year=2026&author=Ziming%20Ye&author=Lihang%20Liu&author=Zhaotan%20Lin&author=Longbiao%20Liu&author=Zonghao%20Liu&author=H.%20Y.%20Fu>`_
+
+#. Yi Hao, Qingyang Zhu, Yaqi Han, Zihan Zang, Annan Xia, Connie Chang-Hasnain, and H. Y. Fu*, “Scalable data-efficient real-time 4D imaging FMCW LiDAR with dual Mach–Zehnder interferometers,” *Photonics Research*, Vol. 13, pp. 2766–2777, 2025. \ `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=Scalable%20data-efficient%20real-time%204D%20imaging%20FMCW%20LiDAR%20with%20dual%20Mach%E2%80%93Zehnder%20interferometers&publication_year=2025&author=Yi%20Hao&author=Qingyang%20Zhu&author=Yaqi%20Han&author=Zihan%20Zang&author=Annan%20Xia&author=Connie%20Chang-Hasnain&author=H.%20Y.%20Fu>`_
+
+#. Yi Hao, Qingyang Zhu, Yaqi Han, Zihan Zang, Ziming Ye, Connie Chang-Hasnain, and H. Y. Fu*, “Hybrid FMCW LiDAR System With Nonlinearity-Corrected MEMS-VCSEL for Extended 3D Imaging Range,” *Journal of Lightwave Technology*, Vol. 43, No. 9, pp. 4042–4052, 2025. \  `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=Hybrid%20FMCW%20LiDAR%20System%20With%20Nonlinearity-Corrected%20MEMS-VCSEL%20for%20Extended%203D%20Imaging%20Range&publication_year=2025&author=Yi%20Hao&author=Qingyang%20Zhu&author=Yaqi%20Han&author=Zihan%20Zang&author=Ziming%20Ye&author=Connie%20Chang-Hasnain&author=H.%20Y.%20Fu>`_
+
+#. Qingyang Zhu, Yi Hao, Lican Wu, Yaqi Han, Qian Li, and H. Y. Fu*, “4D Spectral-Scanning FMCW LiDAR System for 360-Degree Detection,” *Journal of Lightwave Technology*, Vol. 43, No. 2, pp. 522–529, 2025. \  `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=4D%20Spectral-Scanning%20FMCW%20LiDAR%20System%20for%20360-Degree%20Detection&publication_year=2025&author=Qingyang%20Zhu&author=Yi%20Hao&author=Lican%20Wu&author=Yaqi%20Han&author=Qian%20Li&author=H.%20Y.%20Fu>`_
+
+Silicon Photonics
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+#. Yaqi Han, Lirong Cheng, Qian Li, and H. Y. Fu*, “Dual-Layer SiN-on-Si Polarization Beam-Splitting Grating Coupler for Integrated LiDAR,” *IEEE Photonics Technology Letters*, 2026. \ `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=Dual-Layer%20SiN-on-Si%20Polarization%20Beam-Splitting%20Grating%20Coupler%20for%20Integrated%20LiDAR&publication_year=2026&author=Yaqi%20Han&author=Lirong%20Cheng&author=Qian%20Li&author=H.%20Y.%20Fu>`_
+
+#. Yan Huang, Ling Liu, Chenxingyu Huang, Yong Le, H. Y. Fu, Shengdong Zhang, and Qian Li, “Epsilon-near-zero mode excitation in ITO-coated D-shaped fibers for high-sensitivity methane detection,” *Physics Letters A*, Vol. 582, p. 131584, 2026. \ `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=Epsilon-near-zero%20mode%20excitation%20in%20ITO-coated%20D-shaped%20fibers%20for%20high-sensitivity%20methane%20detection&publication_year=2026&author=Yan%20Huang&author=Ling%20Liu&author=Chenxingyu%20Huang&author=Yong%20Le&author=H.%20Y.%20Fu&author=Shengdong%20Zhang&author=Qian%20Li>`_
+
+#. Chenxingyu Huang, Bin Xu, Siwei Peng, H. Y. Fu, and Qian Li, “Strong coupling and ultrafast switching in hybrid epsilon-near-zero-plasmonic metasurfaces,” *Applied Optics*, Vol. 64, pp. 6657–6665, 2025. \ `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=Strong%20coupling%20and%20ultrafast%20switching%20in%20hybrid%20epsilon-near-zero-plasmonic%20metasurfaces&publication_year=2025&author=Chenxingyu%20Huang&author=Bin%20Xu&author=Siwei%20Peng&author=H.%20Y.%20Fu&author=Qian%20Li>`_
+
+#. Jiaye Wu, Marco Clementi, Chenxingyu Huang, Feng Ye, H. Y. Fu, Lei Lu, Shengdong Zhang, Qian Li, and Camille-Sophie Brès*, “Thermo-optic epsilon-near-zero effects,” *Nature Communications*, Vol. 15, No. 1, p. 794, 2024. `DOI <https://doi.org/10.1038/s41467-024-45054-z>`_ `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=Thermo-optic%20epsilon-near-zero%20effects&publication_year=2024&author=Jiaye%20Wu&author=Marco%20Clementi&author=Chenxingyu%20Huang&author=Feng%20Ye&author=H.%20Y.%20Fu&author=Lei%20Lu&author=Shengdong%20Zhang&author=Qian%20Li&author=Camille-Sophie%20Br%C3%A8s>`_
+
+
+Optical Wireless Communication
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+#. Haoyu Huang, Meixia Ma, You Wu, Syed Agha Hassnain Mohsan, Dongmei Deng, Qian Li, and H. Y. Fu*, “Integrated optical wireless positioning and multi-user communication based on petal-shift keying structured beams,” *Optics & Laser Technology*, Vol. 198, p. 114861, 2026. `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=Integrated%20optical%20wireless%20positioning%20and%20multi-user%20communication%20based%20on%20petal-shift%20keying%20structured%20beams&publication_year=2026&author=Haoyu%20Huang&author=Meixia%20Ma&author=You%20Wu&author=Syed%20Agha%20Hassnain%20Mohsan&author=Dongmei%20Deng&author=Qian%20Li&author=H.%20Y.%20Fu>`_
+
+#. Zhiyue Yin, Lihang Liu, Yibin Li, Connie Chang-Hasnain, and H. Y. Fu*, “POF-Based Integrated Visible Light Communication and Positioning System Employing Modified Gold Code with Nonlinear Permutation Function,” *Journal of Lightwave Technology*, 2026. \  `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=POF-Based%20Integrated%20Visible%20Light%20Communication%20and%20Positioning%20System%20Employing%20Modified%20Gold%20Code%20with%20Nonlinear%20Permutation%20Function&publication_year=2026&author=Z.%20Yin&author=L.%20Liu&author=Y.%20Li&author=C.%20Chang-Hasnain&author=H.%20Y.%20Fu>`_
+
+#. Siyu Bai, Zehua Xu, Chengshang Lyu, Yibin Li, Qian Li, and H. Y. Fu*, “Frequency-Temporal Enhanced Recovery for Ultra-Low-Resolution ACO-OFDM OWC Links,” *IEEE Photonics Technology Letters*, Vol. 38, No. 9, pp. 567–570, 2026. \ `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=Frequency-Temporal%20Enhanced%20Recovery%20for%20Ultra-Low-Resolution%20ACO-OFDM%20OWC%20Links&publication_year=2026&author=Siyu%20Bai&author=Zehua%20Xu&author=Chengshang%20Lyu&author=Yibin%20Li&author=Qian%20Li&author=H.%20Y.%20Fu>`_
+
+#. Siyu Bai, Yibin Li, Zehua Xu, Qian Li, and H. Y. Fu*, “Distribution-Adaptive Quantization for Ultra-Low-Resolution Transmitter in IM/DD VLC Links,” *IEEE Photonics Technology Letters*, Vol. 38, No. 9, pp. 563–566, 2026. \ `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=Distribution-Adaptive%20Quantization%20for%20Ultra-Low-Resolution%20Transmitter%20in%20IM%2FDD%20VLC%20Links&publication_year=2026&author=Siyu%20Bai&author=Yibin%20Li&author=Zehua%20Xu&author=Qian%20Li&author=H.%20Y.%20Fu>`_
+
+#. Lihang Liu, Zhiyue Yin, and H. Y. Fu*, “Wide field-of-view single-sourced full-duplex underwater wireless optical communication system using a digital micromirror device projector and camera,” *Optics Letters*, Vol. 50, pp. 6497–6500, 2025. \  `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=Wide%20field-of-view%20single-sourced%20full-duplex%20underwater%20wireless%20optical%20communication%20system%20using%20a%20digital%20micromirror%20device%20projector%20and%20camera&publication_year=2025&author=Lihang%20Liu&author=Zhiyue%20Yin&author=H.%20Y.%20Fu>`_
+
 Book Chapters
 ~~~~~~~~~~~~~~
 
