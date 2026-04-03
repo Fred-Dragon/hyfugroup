@@ -28,7 +28,7 @@ Silicon Photonics
 
 #. Chenxingyu Huang, Bin Xu, Siwei Peng, H. Y. Fu, and Qian Li, “Strong coupling and ultrafast switching in hybrid epsilon-near-zero-plasmonic metasurfaces,” *Applied Optics*, Vol. 64, pp. 6657–6665, 2025. \ `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=Strong%20coupling%20and%20ultrafast%20switching%20in%20hybrid%20epsilon-near-zero-plasmonic%20metasurfaces&publication_year=2025&author=Chenxingyu%20Huang&author=Bin%20Xu&author=Siwei%20Peng&author=H.%20Y.%20Fu&author=Qian%20Li>`_
 
-#. Jiaye Wu, Marco Clementi, Chenxingyu Huang, Feng Ye, H. Y. Fu, Lei Lu, Shengdong Zhang, Qian Li, and Camille-Sophie Brès*, “Thermo-optic epsilon-near-zero effects,” *Nature Communications*, Vol. 15, No. 1, p. 794, 2024. `DOI <https://doi.org/10.1038/s41467-024-45054-z>`_ `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=Thermo-optic%20epsilon-near-zero%20effects&publication_year=2024&author=Jiaye%20Wu&author=Marco%20Clementi&author=Chenxingyu%20Huang&author=Feng%20Ye&author=H.%20Y.%20Fu&author=Lei%20Lu&author=Shengdong%20Zhang&author=Qian%20Li&author=Camille-Sophie%20Br%C3%A8s>`_
+#. Jiaye Wu, Marco Clementi, Chenxingyu Huang, Feng Ye, H. Y. Fu, Lei Lu, Shengdong Zhang, Qian Li, and Camille-Sophie Brès*, “Thermo-optic epsilon-near-zero effects,” *Nature Communications*, Vol. 15, No. 1, p. 794, 2024. \ `Google Scholar ↗ <https://scholar.google.com/scholar_lookup?title=Thermo-optic%20epsilon-near-zero%20effects&publication_year=2024&author=Jiaye%20Wu&author=Marco%20Clementi&author=Chenxingyu%20Huang&author=Feng%20Ye&author=H.%20Y.%20Fu&author=Lei%20Lu&author=Shengdong%20Zhang&author=Qian%20Li&author=Camille-Sophie%20Br%C3%A8s>`_
 
 
 Optical Wireless Communication
