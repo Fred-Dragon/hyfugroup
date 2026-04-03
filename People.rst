@@ -56,6 +56,8 @@ RESEARCH INTEREST AND EXPERTISE
 
 HONORS AND AWARDS
 ~~~~~~~~~~~~~~~~~
+| 2025 Emil Wolf Outstanding Student Paper Competition Prize
+| Best Paper Award, OGC 2025
 | Bset Student Paper, ICOCN2025\
 | Best Student Paper, Best Poster, OECC2023\
 | Postdeadline Paper, Best Student Paper Award, Best Poster Award, ACP 2021\
