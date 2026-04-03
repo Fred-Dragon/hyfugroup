@@ -4,6 +4,9 @@ News
 Reports
 ~~~~~~~~~~
 
+21.优博微展2024 | 刘轩奕：基于保偏光纤中非线性偏振演化的超快光纤激光器 Outstanding PhD Dissertation Highlights， 2026/03/17
+    https://mp.weixin.qq.com/s/_MNwnmvJ4zSScGbfPayQgw
+
 20.课题组在 Nature 发表片上相干4D激光雷达焦平面阵列研究专家评述 Hongyan Fu’s team publishes an expert opinion in Nature on chip-integrated coherent 4D LiDAR focal plane arrays, 2026/03/11
     https://www.nature.com/articles/d41586-026-00727-1
 
