@@ -56,6 +56,7 @@ RESEARCH INTEREST AND EXPERTISE
 
 HONORS AND AWARDS
 ~~~~~~~~~~~~~~~~~
+| Bset Student Paper, ICOCN2025\
 | Best Student Paper, Best Poster, OECC2023\
 | Postdeadline Paper, Best Student Paper Award, Best Poster Award, ACP 2021\
 | Best Student Paper Awards, OECC 2021\
