@@ -4,33 +4,48 @@ News
 Reports
 ~~~~~~~~~~
 
-21.优博微展2024 | 刘轩奕：基于保偏光纤中非线性偏振演化的超快光纤激光器 Outstanding PhD Dissertation Highlights， 2026/03/17
+24. 本课题组联合北京大学深圳研究生院李倩副教授课题组开展国际光学日科普研学活动 Hongyan Fu's Group Co-hosts International Day of Light Science Outreach Activity with Assoc. Prof. Qian Li's Group at PKU Shenzhen Graduate School, 2026/05/27
+    https://mp.weixin.qq.com/s/vaJ_HviXzeH9p1SWkziW6g
+
+23. EPFL研究员吴嘉野博士受邀作学术报告“新型时域泰伯效应及其片上集成” EPFL Collaborateur Scientifique Dr. Jiaye Wu is invited to give an academic talk on "Novel temporal Talbot effects and their on-chip integration", 2026/04/10
+
+.. raw:: html
+
+    <IMG src="_static/poster_jiaye wu.png" width =700>
+
+22. 课题组校友穆鑫博士受邀作学术报告“可见光硅光平台上InGaN激光器的混合集成” Group Alumnus Dr. Xin Mu is invited to give an academic talk on "Hybrid Integration of InGaN Lasers in a Foudary-Fabricated Visible-Light Photonics Platform", 2026/04/10
+
+.. raw:: html
+
+    <IMG src="_static/poster_xin mu.png" width =700>
+
+21. 优博微展2024 | 刘轩奕：基于保偏光纤中非线性偏振演化的超快光纤激光器 Outstanding PhD Dissertation Highlights， 2026/03/17
     https://mp.weixin.qq.com/s/_MNwnmvJ4zSScGbfPayQgw
 
-20.课题组在 Nature 发表片上相干4D激光雷达焦平面阵列研究专家评述 Hongyan Fu’s team publishes an expert opinion in Nature on chip-integrated coherent 4D LiDAR focal plane arrays, 2026/03/11
+20. 课题组在 Nature 发表片上相干4D激光雷达焦平面阵列研究专家评述 Hongyan Fu’s team publishes an expert opinion in Nature on chip-integrated coherent 4D LiDAR focal plane arrays, 2026/03/11
     https://www.nature.com/articles/d41586-026-00727-1
 
-19.课题组付红岩教授当选2026年美国光学学会会士（Optica Fellow） Prof. Hongyan Fu Elected 2026 Optica Fellow, 2025/11/25
+19. 课题组付红岩教授当选2026年美国光学学会会士（Optica Fellow） Prof. Hongyan Fu Elected 2026 Optica Fellow, 2025/11/25
     https://www.optica.org/about/newsroom/news_releases/2025/optica_announces_2026_fellows_class/
 
 .. raw:: html
 
     <IMG src="_static/opticafellow.png" width =700>
 
-18.课题组校友、东京大学JSPS研究员戴茂林博士受邀作学术报告“高重频超快光纤激光器:挑战与研究进展” Group Alumnus Dr. Maolin Dai, JSPS Research Fellow from the University of Tokyo, is invited to give an academic talk on "Compact high-repetition-rate ultrafast fiber lasers: Challenges and progress", 2025/10/24    
+18. 课题组校友、东京大学JSPS研究员戴茂林博士受邀作学术报告“高重频超快光纤激光器:挑战与研究进展” Group Alumnus Dr. Maolin Dai, JSPS Research Fellow from the University of Tokyo, is invited to give an academic talk on "Compact high-repetition-rate ultrafast fiber lasers: Challenges and progress", 2025/10/24    
 
 .. raw:: html
 
     <IMG src="_static/StudentChapterReport_MaolinDai_re.png" width =700>
 
-17.课题组付红岩教授入选全球前2%顶尖科学家“终身影响力”与“年度影响力”榜单 Prof. Fu Hongyan Named to World's Top 2% Scientists Lists for “Lifetime & Annual Impact”, 2025/09/19    
+17. 课题组付红岩教授入选全球前2%顶尖科学家“终身影响力”与“年度影响力”榜单 Prof. Fu Hongyan Named to World's Top 2% Scientists Lists for “Lifetime & Annual Impact”, 2025/09/19    
     https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8
 
 .. raw:: html
 
     <IMG src="_static/科学家榜单整合.jpg" width =700>
 
-16.付红岩课题组荣获第二十届中国研究生电子设计竞赛全国总决赛二等奖 Hongyan Fu's Group Member Won the Second Prize of the National Finals of the 20th China Graduate Electronics Design Contest, 2025/08/18    
+16. 付红岩课题组荣获第二十届中国研究生电子设计竞赛全国总决赛二等奖 Hongyan Fu's Group Member Won the Second Prize of the National Finals of the 20th China Graduate Electronics Design Contest, 2025/08/18    
     http://cpipc.acge.org.cn/cw/preview/6/2c90801a989e3d330198b2cf8b35247a
 
 .. raw:: html
