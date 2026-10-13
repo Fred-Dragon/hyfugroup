@@ -6,61 +6,101 @@
     if (!gallery) return;
 
     const thumbnails = Array.from(gallery.querySelectorAll('.group-gallery__thumb'));
+    const yearGroups = Array.from(gallery.querySelectorAll('.group-gallery__year-group'));
+    const yearButtons = Array.from(gallery.querySelectorAll('[data-gallery-year]'));
     const preview = document.getElementById('group-gallery-image');
     const openLink = document.getElementById('group-gallery-open');
-    const caption = document.getElementById('group-gallery-caption');
     const count = document.getElementById('group-gallery-count');
-    if (!thumbnails.length || !preview || !openLink || !caption || !count) return;
+    if (!thumbnails.length || !preview || !openLink || !count) return;
 
     const dialog = document.getElementById('group-gallery-dialog');
     const largeImage = document.getElementById('group-gallery-large');
-    const dialogCaption = document.getElementById('group-gallery-dialog-caption');
+    const dialogYear = document.getElementById('group-gallery-dialog-year');
     const dialogCount = document.getElementById('group-gallery-dialog-count');
     const canOpenDialog = Boolean(
       dialog && typeof dialog.showModal === 'function' &&
-      largeImage && dialogCaption && dialogCount
+      largeImage && dialogYear && dialogCount
     );
-    const photos = thumbnails.map(function (thumbnail, index) {
+    const photosByYear = new Map();
+    thumbnails.forEach(function (thumbnail) {
       const image = thumbnail.querySelector('img');
-      return {
+      const group = thumbnail.closest('.group-gallery__year-group');
+      const year = thumbnail.getAttribute('data-year') || (group && group.getAttribute('data-year'));
+      if (!year) return;
+      if (!photosByYear.has(year)) photosByYear.set(year, []);
+      photosByYear.get(year).push({
+        thumbnail: thumbnail,
         full: thumbnail.getAttribute('href'),
         preview: thumbnail.getAttribute('data-preview') || thumbnail.getAttribute('href'),
-        title: thumbnail.getAttribute('data-title') || 'Group photo ' + (index + 1),
         alt: thumbnail.getAttribute('data-alt') || (image ? image.alt : '')
-      };
+      });
     });
-    let selected = Math.max(0, thumbnails.findIndex(function (thumbnail) {
+    if (!photosByYear.size) return;
+
+    const initialThumbnail = thumbnails.find(function (thumbnail) {
       return thumbnail.getAttribute('aria-current') === 'true';
+    });
+    let selectedYear = Array.from(photosByYear.keys()).find(function (year) {
+      return photosByYear.get(year).some(function (photo) {
+        return photo.thumbnail === initialThumbnail;
+      });
+    }) || photosByYear.keys().next().value;
+    let selected = Math.max(0, photosByYear.get(selectedYear).findIndex(function (photo) {
+      return photo.thumbnail === initialThumbnail;
     }));
+    const stepButtons = new Set(Array.from(gallery.querySelectorAll('[data-gallery-step]')));
+    if (dialog) {
+      dialog.querySelectorAll('[data-gallery-step]').forEach(function (button) {
+        stepButtons.add(button);
+      });
+    }
 
     function updateDialog() {
+      const photos = photosByYear.get(selectedYear);
       const photo = photos[selected];
       largeImage.alt = photo.alt;
       if (largeImage.getAttribute('src') !== photo.full) largeImage.src = photo.full;
-      dialogCaption.textContent = photo.title;
+      dialog.setAttribute('aria-label', selectedYear + ' group photos');
+      dialogYear.textContent = selectedYear;
       dialogCount.textContent = (selected + 1) + ' / ' + photos.length;
     }
 
     function selectPhoto(index) {
+      const photos = photosByYear.get(selectedYear);
       selected = (index + photos.length) % photos.length;
       const photo = photos[selected];
 
       // Keep the full-size link usable even if the preview fails to load.
       openLink.href = photo.full;
-      openLink.setAttribute('aria-label', 'View full-size photo: ' + photo.title);
+      openLink.setAttribute('aria-label', 'View full-size photo: ' + selectedYear + ', ' +
+        (selected + 1) + ' of ' + photos.length);
       preview.alt = photo.alt;
       if (preview.getAttribute('src') !== photo.preview) preview.src = photo.preview;
-      caption.textContent = photo.title;
       count.textContent = (selected + 1) + ' / ' + photos.length;
-      thumbnails.forEach(function (thumbnail, thumbnailIndex) {
-        if (thumbnailIndex === selected) {
+      thumbnails.forEach(function (thumbnail) {
+        if (thumbnail === photo.thumbnail) {
           thumbnail.setAttribute('aria-current', 'true');
         } else {
           thumbnail.removeAttribute('aria-current');
         }
       });
+      stepButtons.forEach(function (button) {
+        button.disabled = photos.length < 2;
+      });
 
       if (canOpenDialog && dialog.open) updateDialog();
+    }
+
+    function selectYear(year, index) {
+      if (!photosByYear.has(year)) return;
+      selectedYear = year;
+      yearGroups.forEach(function (group) {
+        group.hidden = group.getAttribute('data-year') !== selectedYear;
+      });
+      yearButtons.forEach(function (button) {
+        button.setAttribute('aria-pressed', String(button.getAttribute('data-gallery-year') === selectedYear));
+      });
+      selectPhoto(index || 0);
     }
 
     function isPlainClick(event) {
@@ -68,20 +108,38 @@
         !event.ctrlKey && !event.metaKey && !event.altKey && !event.shiftKey;
     }
 
-    thumbnails.forEach(function (thumbnail, index) {
-      thumbnail.addEventListener('click', function (event) {
-        if (!isPlainClick(event)) return;
-        event.preventDefault();
-        selectPhoto(index);
+    photosByYear.forEach(function (photos, year) {
+      photos.forEach(function (photo, index) {
+        photo.thumbnail.setAttribute('aria-label', 'View ' + year + ' photo ' +
+          (index + 1) + ' of ' + photos.length);
+        photo.thumbnail.addEventListener('click', function (event) {
+          if (!isPlainClick(event)) return;
+          event.preventDefault();
+          selectYear(year, index);
+        });
       });
     });
 
-    const stepButtons = new Set(Array.from(gallery.querySelectorAll('[data-gallery-step]')));
-    if (dialog) {
-      dialog.querySelectorAll('[data-gallery-step]').forEach(function (button) {
-        stepButtons.add(button);
+    yearButtons.forEach(function (button, index) {
+      button.addEventListener('click', function () {
+        selectYear(button.getAttribute('data-gallery-year'));
       });
-    }
+      button.addEventListener('keydown', function (event) {
+        if (event.defaultPrevented || event.ctrlKey || event.metaKey || event.altKey) return;
+        let next;
+        switch (event.key) {
+          case 'ArrowLeft': next = (index - 1 + yearButtons.length) % yearButtons.length; break;
+          case 'ArrowRight': next = (index + 1) % yearButtons.length; break;
+          case 'Home': next = 0; break;
+          case 'End': next = yearButtons.length - 1; break;
+          default: return;
+        }
+        event.preventDefault();
+        selectYear(yearButtons[next].getAttribute('data-gallery-year'));
+        yearButtons[next].focus({ preventScroll: true });
+      });
+    });
+
     stepButtons.forEach(function (button) {
       button.addEventListener('click', function (event) {
         const step = Number(button.getAttribute('data-gallery-step'));
@@ -89,20 +147,20 @@
         event.preventDefault();
         selectPhoto(selected + step);
       });
-      button.disabled = photos.length < 2;
     });
 
     function handleNavigation(event) {
       if (event.defaultPrevented || event.ctrlKey || event.metaKey || event.altKey) return;
       const target = event.target;
-      if (target.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(target.tagName)) return;
+      if (target.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(target.tagName) ||
+          target.closest('.group-gallery__years')) return;
 
       let next;
       switch (event.key) {
         case 'ArrowLeft': next = selected - 1; break;
         case 'ArrowRight': next = selected + 1; break;
         case 'Home': next = 0; break;
-        case 'End': next = photos.length - 1; break;
+        case 'End': next = photosByYear.get(selectedYear).length - 1; break;
         default: return;
       }
       event.preventDefault();
@@ -147,9 +205,9 @@
       });
     }
 
-    selectPhoto(selected);
+    selectYear(selectedYear, selected);
     gallery.classList.add('is-enhanced');
-    gallery.querySelectorAll('.group-gallery__controls').forEach(function (controls) {
+    gallery.querySelectorAll('.group-gallery__controls, .group-gallery__years').forEach(function (controls) {
       controls.hidden = false;
     });
     if (canOpenDialog) {

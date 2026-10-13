@@ -12,16 +12,32 @@
   margin-bottom: .55rem;
 }
 #group-gallery h2 { margin: 0; font-size: 1.5rem; }
-#group-gallery .group-gallery__year {
+#group-gallery .group-gallery__year,
+#group-gallery #group-gallery-dialog-year {
   color: var(--gallery-accent);
   font-size: .9rem;
   font-weight: 700;
   letter-spacing: .1em;
 }
-#group-gallery .group-gallery__intro {
-  margin: 0 0 1.1rem;
-  color: #666;
-  font-size: .92rem;
+#group-gallery .group-gallery__years {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .45rem;
+  margin: 1rem 0 1.2rem;
+}
+#group-gallery .group-gallery__years button {
+  min-width: 64px;
+  font-size: .88rem;
+  font-weight: 600;
+}
+#group-gallery .group-gallery__years button[aria-pressed="true"] {
+  background: var(--gallery-accent);
+  border-color: var(--gallery-accent);
+  color: #fff;
+}
+#group-gallery .group-gallery__year-group h3 { margin: 1.2rem 0 .6rem; }
+#group-gallery.is-enhanced .group-gallery__year-group h3 {
+  display: none;
 }
 #group-gallery .group-gallery__figure { margin: 0; }
 #group-gallery #group-gallery-open {
@@ -48,7 +64,6 @@
   margin: .65rem 0 .8rem;
   font-size: .87rem;
 }
-#group-gallery .group-gallery__caption { font-weight: 600; }
 #group-gallery .group-gallery__hint { color: #707070; font-size: .8rem; }
 #group-gallery .group-gallery__controls {
   display: flex;
@@ -82,7 +97,7 @@
 }
 #group-gallery .group-gallery__thumb {
   display: block;
-  flex: 1 0 76px;
+  flex: 0 0 88px;
   min-width: 0;
   padding: 3px;
   border: 2px solid transparent;
