@@ -48,14 +48,14 @@ Our vision: Enabling people's future life with advanced optical technologies.
         <button type="button" data-gallery-year="2019" aria-pressed="false" aria-controls="group-gallery-photo group-gallery-year-2019">2019</button>
       </div>
       <figure id="group-gallery-photo" class="group-gallery__figure">
-        <a id="group-gallery-open" href="_static/group-photos-2026/group-2026-70-large.jpg" aria-label="View full-size photo: 2026, 1 of 7">
+        <a id="group-gallery-open" href="_static/group-photos-2026/group-2026-70-large.jpg" aria-label="View full-size photo: 2026, 1 of 3">
           <img id="group-gallery-image" src="_static/group-photos-2026/group-2026-70-preview.webp" width="1600" height="1199" alt="HYFUgroup members holding flowers and giving thumbs up on the indoor steps at Tsinghua SIGS." loading="lazy" decoding="async">
         </a>
         <figcaption class="group-gallery__meta">
           <span class="group-gallery__hint">Click photo to enlarge</span>
           <div class="group-gallery__controls" hidden>
             <button type="button" data-gallery-step="-1" aria-label="Previous photo">&#8249;</button>
-            <span id="group-gallery-count" class="group-gallery__count" aria-live="polite" aria-atomic="true">1 / 7</span>
+            <span id="group-gallery-count" class="group-gallery__count" aria-live="polite" aria-atomic="true">1 / 3</span>
             <button type="button" data-gallery-step="1" aria-label="Next photo">&#8250;</button>
           </div>
         </figcaption>
@@ -63,26 +63,14 @@ Our vision: Enabling people's future life with advanced optical technologies.
       <div id="group-gallery-year-2026" class="group-gallery__year-group" data-year="2026">
         <h3>2026</h3>
         <div class="group-gallery__thumbnails" role="group" aria-label="2026 group photos">
-          <a class="group-gallery__thumb" href="_static/group-photos-2026/group-2026-70-large.jpg" data-preview="_static/group-photos-2026/group-2026-70-preview.webp" data-year="2026" data-alt="HYFUgroup members holding flowers and giving thumbs up on the indoor steps at Tsinghua SIGS." aria-label="View 2026 photo 1 of 7" aria-current="true">
+          <a class="group-gallery__thumb" href="_static/group-photos-2026/group-2026-70-large.jpg" data-preview="_static/group-photos-2026/group-2026-70-preview.webp" data-year="2026" data-alt="HYFUgroup members holding flowers and giving thumbs up on the indoor steps at Tsinghua SIGS." aria-label="View 2026 photo 1 of 3" aria-current="true">
             <img src="_static/group-photos-2026/group-2026-70-thumb.webp" width="320" height="240" alt="" loading="lazy" decoding="async">
           </a>
-          <a class="group-gallery__thumb" href="_static/group-photos-2026/group-2026-69-large.jpg" data-preview="_static/group-photos-2026/group-2026-69-preview.webp" data-year="2026" data-alt="HYFUgroup members seated together on the indoor steps at Tsinghua SIGS." aria-label="View 2026 photo 2 of 7">
-            <img src="_static/group-photos-2026/group-2026-69-thumb.webp" width="320" height="240" alt="" loading="lazy" decoding="async">
-          </a>
-          <a class="group-gallery__thumb" href="_static/group-photos-2026/group-2026-71-large.jpg" data-preview="_static/group-photos-2026/group-2026-71-preview.webp" data-year="2026" data-alt="HYFUgroup members with flowers, toys and signs on the indoor steps at Tsinghua SIGS." aria-label="View 2026 photo 3 of 7">
-            <img src="_static/group-photos-2026/group-2026-71-thumb.webp" width="320" height="240" alt="" loading="lazy" decoding="async">
-          </a>
-          <a class="group-gallery__thumb" href="_static/group-photos-2026/group-2026-66-large.jpg" data-preview="_static/group-photos-2026/group-2026-66-preview.webp" data-year="2026" data-alt="HYFUgroup members giving thumbs up in front of the 2026 Faculty Ethics Month display." aria-label="View 2026 photo 4 of 7">
+          <a class="group-gallery__thumb" href="_static/group-photos-2026/group-2026-66-large.jpg" data-preview="_static/group-photos-2026/group-2026-66-preview.webp" data-year="2026" data-alt="HYFUgroup members giving thumbs up in front of the 2026 Faculty Ethics Month display." aria-label="View 2026 photo 2 of 3">
             <img src="_static/group-photos-2026/group-2026-66-thumb.webp" width="320" height="241" alt="" loading="lazy" decoding="async">
           </a>
-          <a class="group-gallery__thumb" href="_static/group-photos-2026/group-2026-65-large.jpg" data-preview="_static/group-photos-2026/group-2026-65-preview.webp" data-year="2026" data-alt="HYFUgroup members holding flowers and toys in front of the 2026 Faculty Ethics Month display." aria-label="View 2026 photo 5 of 7">
-            <img src="_static/group-photos-2026/group-2026-65-thumb.webp" width="320" height="240" alt="" loading="lazy" decoding="async">
-          </a>
-          <a class="group-gallery__thumb" href="_static/group-photos-2026/group-2026-68-large.jpg" data-preview="_static/group-photos-2026/group-2026-68-preview.webp" data-year="2026" data-alt="HYFUgroup members gathered in front of the Tsinghua university motto stone." aria-label="View 2026 photo 6 of 7">
+          <a class="group-gallery__thumb" href="_static/group-photos-2026/group-2026-68-large.jpg" data-preview="_static/group-photos-2026/group-2026-68-preview.webp" data-year="2026" data-alt="HYFUgroup members gathered in front of the Tsinghua university motto stone." aria-label="View 2026 photo 3 of 3">
             <img src="_static/group-photos-2026/group-2026-68-thumb.webp" width="320" height="213" alt="" loading="lazy" decoding="async">
-          </a>
-          <a class="group-gallery__thumb" href="_static/group-photos-2026/group-2026-67-large.jpg" data-preview="_static/group-photos-2026/group-2026-67-preview.webp" data-year="2026" data-alt="HYFUgroup members giving thumbs up beside the Tsinghua university motto stone." aria-label="View 2026 photo 7 of 7">
-            <img src="_static/group-photos-2026/group-2026-67-thumb.webp" width="320" height="213" alt="" loading="lazy" decoding="async">
           </a>
         </div>
       </div>
@@ -156,7 +144,7 @@ Our vision: Enabling people's future life with advanced optical technologies.
           <span id="group-gallery-dialog-year">2026</span>
           <div class="group-gallery__controls">
             <button type="button" data-gallery-step="-1" aria-label="Previous photo">&#8249;</button>
-            <span id="group-gallery-dialog-count" class="group-gallery__count" aria-live="polite" aria-atomic="true">1 / 7</span>
+            <span id="group-gallery-dialog-count" class="group-gallery__count" aria-live="polite" aria-atomic="true">1 / 3</span>
             <button type="button" data-gallery-step="1" aria-label="Next photo">&#8250;</button>
             <button type="button" data-gallery-close autofocus aria-label="Close enlarged photo">Close &#215;</button>
           </div>
